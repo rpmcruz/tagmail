@@ -1,0 +1,22 @@
+TODO
+
+X popup menu in attribute list to mark as favorite
+
+X order attribute list first by favorite, then by new-mails, then by count
+
+X cut attribute list to a given N
+	- ensure favorite and new-mails are always shown
+	- allow N to be changed by pressing the zoom-in/out buttons
+
+X show attribute list as bold when new messages
+
+X make pop3 working properly
+
+X make send message work
+	X check if python has a send-mail module
+
+- make reply button work
+	- add popup for message list (for reply)
+
+- show message attachements
+
